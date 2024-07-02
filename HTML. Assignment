@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+    <title>Online store</title>
+   </head>
+   body>
+    <h1>Product Listing</h1>
+    <table>
+        <tr>
+            <th>Image</th>
+            <th>Product Name</th>
+            <th>Description</th>
+            <th>Price</th>
+            <th>Buy Now</th>
+        </tr>
+  <tr>
+      <td><img src="75inch.jpg </td>
+            <td>Hisense</td>
+            <td>Black,frameless,LED display.</td>
+            <td>ksh.104,000</td>
+            <td> class="buy-now"</td>
+      </tr>
+     <tr>
+            <td><img src="Fridge.jpg</td>
+            <td>Double door,58L,grey colour</td>
+            <td>ksh.79,999</td>
+            <td class="buy-now"</td>
+        </tr>
+        <tr>
+            <td><img src="standing gas 4 burner oven.jpg" </td>
+            <td> Nunix 4 gas burners +gas oven.</td>
+            <td>ksh.24,000</td>
+            <td class="buy-now"</td>
+        </tr>
+
+    </table>
+   </body>
+   </html>
+   
